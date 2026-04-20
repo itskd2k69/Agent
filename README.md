@@ -167,6 +167,10 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
+You can visit the deployed site at this url : https://kj2wmtn5qblbpw8tgwhwd5.streamlit.app/
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the MIT License.
